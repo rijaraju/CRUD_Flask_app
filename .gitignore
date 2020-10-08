@@ -1,0 +1,5 @@
+*.txt
+*.docx
+*.tmp
+_pycache_
+.ipynb_checkpoints
