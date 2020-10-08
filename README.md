@@ -1,5 +1,5 @@
 # CRUD_Flask_app
-Create a CRUD app - Create, Read, Update and Delete - using Flask and Python
+Create a CRUD app (Create, Read, Update and Delete) using Flask and Python
 
 ## Data file
 
